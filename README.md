@@ -1,44 +1,29 @@
 # 👋 Hi, I'm Aritro
 
-🎯 Aspiring Data Analyst | SQL • Excel • Data Visualization
-
-I enjoy working with data to uncover insights and understand real-world trends.
-Currently building my skills through hands-on projects and continuous learning.
+🎯 Aspiring Data Analyst
+SQL • Excel • Data Visualization
 
 ---
 
-## 💡 What I Do
+## 💡 About
 
-* Analyze data using SQL and spreadsheets
-* Explore trends in real-world datasets
-* Turn raw data into clear, actionable insights
+I work with data to uncover insights and understand real-world trends.
+Currently building skills through hands-on projects.
 
 ---
 
 ## 🛠️ Skills
 
-* SQL (PostgreSQL)
-* Microsoft Excel
-* Data Analysis
-* Data Visualization
-* Python (learning)
+SQL (PostgreSQL) • Excel • Data Analysis • Data Visualization
 
 ---
 
-## 📊 Featured Project
+## 📊 Project
 
-🔹 **Data Analyst Job Market Analysis (India, 2023)**
-Analyzed job postings to identify in-demand skills, salary trends, and career insights for data analysts in India.
-
-👉 Focus: SQL-based analysis, skill demand vs salary insights
+**Data Analyst Job Market Analysis (India, 2023)**: Analyzed job postings to identify in-demand skills and salary trends.
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Learning
 
-* Python for Data Analysis
-* Power BI for dashboards
-
----
-
-⭐ *Building in public and improving every day*
+Python for Data Analysis • Power BI
