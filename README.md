@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aritro
 
-🎯 Aspiring Data Analyst | SQL • Excel • Data Visualization
+🎯 Aspiring **Data Analyst**.
 
 ## 💡 About
 
